@@ -1,0 +1,1 @@
+To prevent server-side template injection vulnerabilities, developers should ensure that user input is properly sanitized and validated before being inserted into templates. Implementing input validation and using context-aware escaping techniques can help mitigate the risk of this vulnerability.

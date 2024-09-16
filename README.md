@@ -1,0 +1,1 @@
+This application has a template injection vulnerability. It's possible to run code in the input field by formating it with special characters. In this case, Python uses {{}}. Check PAYLOADS.md.
